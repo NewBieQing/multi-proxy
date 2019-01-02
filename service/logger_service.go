@@ -5,7 +5,7 @@ import (
 	"github.com/kataras/golog"
 	"reflect"
 	"fmt"
-	"reverse_proxy/util"
+	"multi-proxy/util"
 )
 
 var (

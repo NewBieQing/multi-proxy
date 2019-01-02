@@ -4,9 +4,9 @@ filePath = "./log/web.log"
 level  = "debug"
 
 [[proxy]]
-from = "0.0.0.0:3023"
-to = "http://0.0.0.0:2001"
+from = "0.0.0.0:3022"
+to = "http://0.0.0.0:80"
 
 [[proxy]]
-from = "0.0.0.0:3024"
-to = "http://0.0.0.0:2002"
+from = "0.0.0.0:3021"
+to = "http://0.0.0.0:8000"

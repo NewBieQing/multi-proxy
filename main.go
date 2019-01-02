@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"net/http/httputil"
 	"log"
-	"reverse_proxy/service"
+	"multi-proxy/service"
 	"fmt"
 	"runtime"
 )
